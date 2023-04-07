@@ -1,1 +1,1 @@
-# CS5260
+# CS5260 course project
